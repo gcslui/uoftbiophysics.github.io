@@ -1,6 +1,6 @@
 ---
 title: uoftbiophysics.github.io
-description: Simple site B
+description: Public site to host info related to org repos
 ---
 
 
