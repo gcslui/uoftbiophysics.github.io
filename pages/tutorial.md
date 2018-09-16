@@ -1,6 +1,7 @@
 ---
 title: Tips for github.io
 description: Default tips blurb when creating new github.io
+layout: page
 ---
 
 ## Welcome to GitHub Pages
