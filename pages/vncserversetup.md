@@ -1,5 +1,6 @@
 ---
 title: vncserversetup
+description: VNC server setup tools and instructions
 layout: page
 ---
 
