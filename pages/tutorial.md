@@ -3,10 +3,6 @@ title: Tips for github.io
 description: Default tips blurb when creating new github.io
 ---
 
-## Structure
-- [homepage](https://uoftbiophysics.github.io/)
-- [pages/machinelearning](https://uoftbiophysics.github.io/pages/machinelearning)
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/uoftbiophysics/uoftbiophysics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
