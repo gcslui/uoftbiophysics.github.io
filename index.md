@@ -4,8 +4,8 @@ description: Public site to host info related to org repos
 ---
 
 ## Structure
-- homepage (current): [Link](https://uoftbiophysics.github.io/)  
-- pages/machinelearning: [Link](https://uoftbiophysics.github.io/pages/machinelearning)
+- homepage ([current page](https://uoftbiophysics.github.io/))
+- [pages/machinelearning](https://uoftbiophysics.github.io/pages/machinelearning)
 
 ## Welcome to GitHub Pages
 
