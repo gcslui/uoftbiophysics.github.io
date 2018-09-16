@@ -1,8 +1,6 @@
 ---
 title: uoftbiophysics.github.io
-tagline: Simple site A
 description: Simple site B
-layout: page
 ---
 
 
