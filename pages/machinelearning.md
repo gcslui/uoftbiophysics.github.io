@@ -7,13 +7,13 @@ layout: page
 ## Info
 
 ### Meetings 
-Fridays at 12:30PM in MP 505 - [Schedule](https://docs.google.com/spreadsheets/u/1/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit?usp=drive_open&ouid=107552247492071363708)
+[Schedule](https://docs.google.com/spreadsheets/u/1/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit?usp=drive_open&ouid=107552247492071363708) - Fridays at 12:30PM in MP 505
 
 ### Unsupervised learning techniques
-[Table](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=1433659223)
+[Table](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=1433659223) - 
 We will prepare ~15 minute presentations on each topic
-Add your name to one you are interested in presenting
 
+Add your name to one you are interested in presenting
 
 ### General Resources
 - [2018 review](https://arxiv.org/pdf/1803.08823.pdf) of machine learning "for Physicists" by Mehta et al.
