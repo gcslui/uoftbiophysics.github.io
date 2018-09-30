@@ -13,7 +13,7 @@ layout: page
 [Table](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=1433659223) - 
 We will prepare ~15 minute presentations on each topic
 
-Add your name to one you are interested in presenting
+Add your name to any you are interested in presenting
 
 ### General Resources
 - [2018 review](https://arxiv.org/pdf/1803.08823.pdf) of machine learning "for Physicists" by Mehta et al.
