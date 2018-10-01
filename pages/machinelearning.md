@@ -4,18 +4,18 @@ description: Info and meeting schedule
 layout: page
 ---
 
-## Info
-
 ### Meetings 
 [Schedule](https://docs.google.com/spreadsheets/u/1/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit?usp=drive_open&ouid=107552247492071363708) - Fridays at 12:30PM in MP 505
 
 ### Unsupervised learning techniques
 [Table](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=1433659223) - 
-Add your name to any you are interested in presenting
-
-Prepare ~15 minute of content on each topic
-
+Add your name to any you are interested in presenting  
+Prepare ~15 minute of content on each topic  
 Add notes on the topic to our [ML Wiki](https://github.com/uoftbiophysics/machinelearning/wiki)
+
+### Projects
+Table of proposed projects can be found [here](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=463939956)  
+Join one, or propose your own!
 
 ### General Resources
 - [2018 review](https://arxiv.org/pdf/1803.08823.pdf) of machine learning "for Physicists" by Mehta et al.
