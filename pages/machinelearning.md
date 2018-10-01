@@ -11,9 +11,9 @@ layout: page
 
 ### Unsupervised learning techniques
 [Table](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=1433659223) - 
-We will prepare ~15 minute presentations on each topic
-
 Add your name to any you are interested in presenting
+Prepare ~15 minute of content on each topic
+Add notes on the topic to our [ML Wiki](https://github.com/uoftbiophysics/machinelearning/wiki)
 
 ### General Resources
 - [2018 review](https://arxiv.org/pdf/1803.08823.pdf) of machine learning "for Physicists" by Mehta et al.
