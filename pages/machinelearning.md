@@ -15,8 +15,8 @@ layout: page
 - See [machinelearning/guides/README.md](https://github.com/uoftbiophysics/machinelearning/blob/master/guides/README.md)
 
 ### Projects
-Table of proposed projects can be found [here](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=463939956)
-Join one, or propose your own!
+Table of proposed projects can be found [here](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=463939956)  
+Join one, or propose your own!  
 We plan to consolidate them on Friday, Oct. 19
 
 ### General Resources
