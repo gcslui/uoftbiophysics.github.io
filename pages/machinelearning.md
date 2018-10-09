@@ -10,7 +10,7 @@ layout: page
 ### Unsupervised learning techniques
 [Table of techniques](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=1433659223) 
 - Add your name to any you are interested in presenting
-- Prepare ~15 minute of content on each topic to a jupyter notebook
+- Goal: A jupyter notebook with ~15 minute of content for each topic, which we can then refer to.
 - Upload it to [machinelearning/guides](https://github.com/uoftbiophysics/machinelearning/blob/master/guides/)
 - See [machinelearning/guides/README.md](https://github.com/uoftbiophysics/machinelearning/blob/master/guides/README.md)
 
