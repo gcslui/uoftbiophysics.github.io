@@ -9,13 +9,15 @@ layout: page
 
 ### Unsupervised learning techniques
 [Table](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=1433659223) - 
-Add your name to any you are interested in presenting  
-Prepare ~15 minute of content on each topic  
-Add notes on the topic to our [ML Wiki](https://github.com/uoftbiophysics/machinelearning/wiki)
+- Add your name to any you are interested in presenting  
+- Prepare ~15 minute of content on each topic to a jupyter notebook. 
+- Upload it to [machinelearning/guides](https://github.com/uoftbiophysics/machinelearning/blob/master/guides/) .
+- See [machinelearning/guide/README.md](https://github.com/uoftbiophysics/machinelearning/blob/master/guides/README.md)
 
 ### Projects
-Table of proposed projects can be found [here](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=463939956)  
+Table of proposed projects can be found [here](https://docs.google.com/spreadsheets/d/1g5YJG3eM5Nce51zA7Vuy-tRkN3CzBXFOp02jR28Tjas/edit#gid=463939956)
 Join one, or propose your own!
+We plan to consolidate them on Friday, Oct. 19.
 
 ### General Resources
 - [2018 review](https://arxiv.org/pdf/1803.08823.pdf) of machine learning "for Physicists" by Mehta et al.
