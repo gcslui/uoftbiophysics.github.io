@@ -25,6 +25,7 @@ We plan to consolidate them on Friday, Oct. 19
 - [SciNet course](https://support.scinet.utoronto.ca/education/go.php/363)
 - [Visualization of common NN architectures](http://www.asimovinstitute.org/neural-network-zoo/)
 - Large, updated list of resources on the [ML subreddit](https://www.reddit.com/r/MachineLearning/wiki/index)
+- Conference proceedings of [NIPS](https://nips.cc/Conferences/2017/Schedule) and [WCCI](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7958416#) for brainstorming projects
 
 ### Software Resources
 Installing Keras: [https://keras.io/#installation](https://keras.io/#installation)
